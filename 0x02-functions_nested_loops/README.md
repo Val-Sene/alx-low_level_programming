@@ -4,3 +4,10 @@ This is a readme for this directory
 2-alphabet_x10
 3-_islower
 4-_isalpha
+5-print_sign
+6-abs
+7-print_last_digit
+8-24_hours
+9-times_table
+10-add
+11-print_to_98
