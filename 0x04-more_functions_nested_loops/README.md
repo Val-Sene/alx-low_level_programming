@@ -1,2 +1,5 @@
 This is the readme for this file
-0-main 
+0-isupper
+1-isdigit
+2-mul
+3-
