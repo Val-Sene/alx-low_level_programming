@@ -2,4 +2,5 @@ This is the readme for this file
 0-isupper
 1-isdigit
 2-mul
-3-
+3-print_numbers
+4-
