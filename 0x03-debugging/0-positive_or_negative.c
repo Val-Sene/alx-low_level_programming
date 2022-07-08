@@ -3,16 +3,12 @@
 #include<stdlib.h>
 
 /**
- * main - Entry point
+ * positive_or_negative - checks for positive and negative
  *
  * Return: Always 0 (Success)
  */
 int positive_or_negative(int n)
 {
-	/*int n;*/
-
-	srand(time(0));
-	/*n = rand() - RAND_MAX / 2;*/
 	if (n > 0)
 	{
 		printf("%d is positive\n", n);
@@ -26,5 +22,4 @@ int positive_or_negative(int n)
 		printf("%d is negative\n", n);
 	}
 	return (0);
-
 }
