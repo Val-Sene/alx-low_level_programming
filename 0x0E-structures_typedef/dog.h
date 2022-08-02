@@ -1,5 +1,11 @@
 #ifndef DOG
 #define DOG
+
+/**
+ * dog_t - typedef for dog struct
+ */
+typedef struct dog dog_t;
+
 /**
  * struct dog - struct that stores different datatypes of a dog info
  * @name: holds the name of the dog
