@@ -1,1 +1,1 @@
-This is the introduction to C programming repo
+This is the introduction to C programming repos
